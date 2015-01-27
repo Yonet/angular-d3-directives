@@ -1,0 +1,31 @@
+{
+  "name": "angular-d3-directives",
+  "version": "0.0.0",
+  "authors": [
+    "Aysegul Yonet <aysegulyonet@gmail.com>"
+  ],
+  "description": "D3 directives to create customizable graphs.",
+  "main": "line-graph-directive.js",
+  "keywords": [
+    "d3",
+    "d3.js",
+    "line",
+    "graph",
+    "angular",
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "http://yonet.github.io/angular-d3-directives/#/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.11",
+    "d3": "~3.5.3"
+  }
+}
